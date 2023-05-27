@@ -1,6 +1,6 @@
-# Practice React App
+# Practice React App and TypeScript Coding
 
-This repository is practice for developing React App.
+This repository is practice for developing React App and TypeScript Coding.
 
 ## Environments and Versions
 
